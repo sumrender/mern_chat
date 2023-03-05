@@ -1,0 +1,11 @@
+in backend, 
+
+mongoDB: I can do:
+  populate,
+  {new: true},
+  regex operations,
+  {timestamps: true}
+
+reloading on chatPage gives an error
+
+implement group functionality later
